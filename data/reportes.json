@@ -1,0 +1,6 @@
+[
+  {"id":1,"lugar":"Río Lerma, Toluca","tipo":"Aguas residuales","fecha":"2026-11-08","nivel":"alto","descripcion":"Espuma y mal olor visibles en la orilla del río.","lat":19.2826,"lng":-99.6557},
+  {"id":2,"lugar":"Laguna de Zumpango","tipo":"Basura","fecha":"2026-11-03","nivel":"medio","descripcion":"Acumulación de residuos sólidos cerca de la orilla.","lat":19.7989,"lng":-99.0997},
+  {"id":3,"lugar":"Río Atoyac, Puebla","tipo":"Químicos","fecha":"2026-11-05","nivel":"alto","descripcion":"Agua con coloración anormal cerca de una zona industrial.","lat":19.0414,"lng":-98.2063},
+  {"id":4,"lugar":"Lago de Pátzcuaro","tipo":"Basura","fecha":"2026-10-28","nivel":"bajo","descripcion":"Algunos residuos aislados en el muelle.","lat":19.5150,"lng":-101.6090}
+]
